@@ -69,7 +69,7 @@ function Appbar({}) {
             <div style={{marginLeft: 10, cursor: "pointer"}} onClick={() => {
                 navigate("/")
             }}>
-                <Typography variant={"h6"}>Coursera</Typography>
+                <Typography variant={"h6"}>CourseWave</Typography>
             </div>
     
             <div style={{display: "flex"}}>
